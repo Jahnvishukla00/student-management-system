@@ -79,7 +79,7 @@ The app will start on `http://localhost:8080`
   "email": "jahnvi@example.com",
   "age": 21,
   "course": "Computer Science",
-  "phoneNumber": "8755610989"
+  "phoneNumber": "1234567899"
 }
 ```
 
